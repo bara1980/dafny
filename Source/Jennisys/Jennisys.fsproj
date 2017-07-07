@@ -9,7 +9,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Language</RootNamespace>
     <AssemblyName>Jennisys</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <Name>Language</Name>
   </PropertyGroup>
